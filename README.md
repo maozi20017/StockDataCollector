@@ -1,6 +1,6 @@
 ## StockDataCollector - 股票資料收集器
 
-這個程式是一個股票資料收集器，用於收集個股日成交資訊。
+這個程式是一個股票資料收集器，用於收集並處理個股日成交資訊。
 
 ### 資料來源
 獲取來源：[https://www.twse.com.tw/zh/trading/historical/stock-day.html](https://www.twse.com.tw/zh/trading/historical/stock-day.html)

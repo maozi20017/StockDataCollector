@@ -3,7 +3,7 @@
 這個程式是一個股票資料收集器，用於收集個股日成交資訊。
 
 ### 資料來源
-你可以從以下網址獲取資料：[https://www.twse.com.tw/zh/trading/historical/stock-day.html](https://www.twse.com.tw/zh/trading/historical/stock-day.html)
+獲取來源：[https://www.twse.com.tw/zh/trading/historical/stock-day.html](https://www.twse.com.tw/zh/trading/historical/stock-day.html)
 
 ### 操作方式
 1. 下載 `.exe` 檔案

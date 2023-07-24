@@ -6,8 +6,8 @@
 你可以從以下網址獲取資料：[https://www.twse.com.tw/zh/trading/historical/stock-day.html](https://www.twse.com.tw/zh/trading/historical/stock-day.html)
 
 ### 操作方式
-1. 下載可執行的 `.exe` 檔案
-2. 輸入要收集的股票代號以及需要收集的月份數量
+1. 下載 `.exe` 檔案
+2. 輸入要股票代號以及需要的月份量
 3. wait(防止被鎖抓資料有間隔2秒)
 4. done
 

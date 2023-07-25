@@ -48,7 +48,7 @@ func MergeCSVFiles(stockNo string) error {
 	}
 
 	// 儲存檔案的路徑
-	outputFilePath := filepath.Join(mergeFolderPath, "merged.csv")
+	outputFilePath := fmt.Sprintf(filepath.Join(mergeFolderPath, "%s.csv"), stockNo)
 
 	// 寫入合併後的結果到新的 CSV 檔案
 	err = writeCSVFile(outputFilePath, mergedData)
